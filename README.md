@@ -46,13 +46,15 @@ The model demonstrates the ability to distinguish between high-risk and low-risk
 - Certain population segments consistently show elevated risk levels  
 - Data-driven segmentation enables targeted public health interventions  
 
----
+  ---
 
-## 📌 Visual Insights
+  ## 📌 Visual Insights
 
-![Confusion Matrix](images/confusion_matrix.png)
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 
-![Feature Importance](images/feature_importance.png)
+### Feature Importance
+![Feature Importance](feature_importance.png)
 
 ---
 
